@@ -5,7 +5,7 @@ An Alpine-based Docker image for working with both curl and jq.
 Usage
 Both of the following docker run variations will succeed.
 
-Using jq as the Docker entrypoint
+Using: jq as the Docker entrypoint
 docker run \
   --rm \
   -v $(pwd):/home \
